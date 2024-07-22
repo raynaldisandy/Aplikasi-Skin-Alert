@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "skin-alerts": "skin-alerts-apps"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

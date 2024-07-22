@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104331017775",
+    "firebase_url": "https://skin-alerts-apps-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "skin-alerts-apps",
+    "storage_bucket": "skin-alerts-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104331017775:android:b17b3cdd4e3915c666d0da",
+        "android_client_info": {
+          "package_name": "com.example.skinalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104331017775-ebt2udj2kc1ldd7tkttltoloh4uue0hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyK-D2UEqxUslRkP7-xHBwLQcKOHY778"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104331017775-ebt2udj2kc1ldd7tkttltoloh4uue0hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104331017775-t7ml8264kdvqbdjq4p4i31dpeecrmd09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skinalert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
